@@ -1,26 +1,8 @@
-## Hi there 👋
-
-<!--
-**Faurregob/Faurregob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # 👨💻 Freddy Urrego | Analista de Sistemas & Desarrollador de Software
 
 [![Email](https://img.shields.io/badge/Gmail-faurregob@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:faurregob@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-3046406044-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573046406044)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/tu-perfil/) *(reemplaza el enlace)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/freddyaurregob) 
 
 ---
 
