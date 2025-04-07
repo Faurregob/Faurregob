@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-faurregob@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:faurregob@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-3046406044-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573046406044)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](www.linkedin.com/in/freddyaurregob) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/freddyaurregob/) 
 
 ---
 
