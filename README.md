@@ -8,13 +8,13 @@
 
 ### 🚀 Sobre Mí
 Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
-- **Automatización de procesos** en Odoo (APIs REST, Google Sheets, Apps Script).
-- **Lenguajes de Programacion** (Python, Java, JavaScript, XML/HTML, Bootstrap).
-- **Gestión de Identidades y Accesos (IAM)** y seguridad informática.
-- **Bases de datos relacionales** (SQL, PostgreSQL).
+- **Automatización de procesos en Odoo:** (APIs REST, Google Sheets, Apps Script).
+- **Lenguajes de Programacion:** (Python, Java, JavaScript, XML/HTML, Bootstrap).
+- **Gestión de Identidades y Accesos (IAM) y Seguridad Informática.**
+- **Bases de datos relacionales:** (SQL, PostgreSQL).
 
 **Enfoque:** Desarrollo de software escalable + optimización de ERPs.  
-**Habilidades blandas:** Trabajo en equipo, adaptabilidad, análisis de datos y aprendizaje continuo.
+**Habilidades blandas:** Trabajo en equipo, Adaptabilidad, Análisis de datos y Aprendizaje continuo.
 
 ---
 
