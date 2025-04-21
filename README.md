@@ -9,7 +9,7 @@
 ### 🚀 Sobre Mí
 Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
 - **Automatización de procesos en Odoo:** (APIs REST, Google Sheets, Apps Script).
-- **Lenguajes de Programacion:** (Python, Java, JavaScript, XML/HTML, Bootstrap).
+- **Lenguajes de Programacion:** (Python, Java, JavaScript, XML/HTML, Bootstrap, Css).
 - **Gestión de Identidades y Accesos (IAM) y Seguridad Informática.**
 - **Bases de datos relacionales:** (SQL, PostgreSQL).
 
@@ -25,6 +25,7 @@ Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Css](https://img.shields.io/badge/logo-Css-blue?logo=Css&logoColor=f5f5f5)
 
 #### Bases de Datos & Herramientas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
