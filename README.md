@@ -49,7 +49,7 @@ Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
 ### 📚 Proyectos Destacados
 | Proyecto | Tecnologías | Descripción |
 |----------|------------|-------------|
-| [Portafolio Personal](https://github.com/Faurregob/Mis-Proyectos) | HTML, CSS, Bootstrap | Sitio web profesional con proyectos y habilidades. |
+| [Portafolio Personal](https://github.com/Faurregob/Mis-Proyectos) | HTML, CSS, Bootstrap, JavaScript | Ejercicios Basicos, utilizando herramientas de Html, Css, Java Script puro. |
 
 *(Añade enlaces a repositorios relevantes)*
 
@@ -58,6 +58,7 @@ Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
 ### 📖 Educación y Certificaciones
 - **Ingeniería de Software** @ Fundación Universitaria Compensar *(2023 - Actual)*
 - **Oracle Certified:** Java Fundamentals & Database Foundations *(Mayo 2024)*
+- **React** 
 
 ---
 
