@@ -49,9 +49,7 @@ Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
 ### 📚 Proyectos Destacados
 | Proyecto | Tecnologías | Descripción |
 |----------|------------|-------------|
-| [Encriptador ONE](https://github.com/Faurregob/Encriptador) | JavaScript, HTML, CSS | Herramienta de cifrado/descifrado para Challenge ONE. |
-| [Automatización Odoo-GSheets](https://github.com/...) | Python, Apps Script, REST APIs | Sincronización automática de datos entre Odoo y Google Sheets. |
-| [Portafolio Personal](https://github.com/Faurregob/Portafolio) | HTML, CSS, Bootstrap | Sitio web profesional con proyectos y habilidades. |
+| [Portafolio Personal](https://github.com/Faurregob/Mis-Proyectos) | HTML, CSS, Bootstrap | Sitio web profesional con proyectos y habilidades. |
 
 *(Añade enlaces a repositorios relevantes)*
 
