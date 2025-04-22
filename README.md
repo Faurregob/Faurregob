@@ -51,8 +51,6 @@ Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
 |----------|------------|-------------|
 | [Portafolio Personal](https://github.com/Faurregob/Mis-Proyectos) | HTML, CSS, Bootstrap, JavaScript | Ejercicios Basicos, utilizando herramientas de Html, Css, Java Script puro. |
 
-*(Añade enlaces a repositorios relevantes)*
-
 ---
 
 ### 📖 Educación y Certificaciones
