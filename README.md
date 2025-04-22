@@ -1,4 +1,4 @@
-# 👨💻 Freddy Urrego | Analista de Sistemas & Desarrollador de Software
+# 💻 Freddy Urrego | Analista de Sistemas & Desarrollador de Software
 
 [![Email](https://img.shields.io/badge/Gmail-faurregob@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:faurregob@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-3046406044-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573046406044)
@@ -58,7 +58,8 @@ Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
 ### 📖 Educación y Certificaciones
 - **Ingeniería de Software** @ Fundación Universitaria Compensar *(2023 - Actual)*
 - **Oracle Certified:** Java Fundamentals & Database Foundations *(Mayo 2024)*
-- **React** 
+- **React** Curso de React de 0 a Experto *(Actualmente)*
+- **Odoo 14 para Programadores*** Creación de módulos desde 0 sin usar Odoo Studio *(Actualmente)*
 
 ---
 
