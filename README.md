@@ -69,6 +69,6 @@ Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
 ---
 
 ### 📌 Objetivo Profesional
-Busco oportunidades en **desarrollo backend/fullstack** o **optimización de ERPs**, donde pueda aplicar mis habilidades en automatización, seguridad y gestión de datos para impulsar la eficiencia operativa.
+Soy un desarrollador Junior con conocimientos básicos en Java, HTML, CSS, y Python, y actualmente aprendiendo React de manera autodidacta. Mi objetivo es encontrar una oportunidad en el desarrollo backend/frontend donde pueda aplicar mis habilidades adquiridas, seguir aprendiendo y creciendo profesionalmente. Estoy comprometido a aportar al éxito de los equipos de desarrollo, contribuyendo con soluciones de calidad mientras continúo perfeccionando mis conocimientos en programación y tecnologías web.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faurregob&show_icons=true&theme=radical)
+
