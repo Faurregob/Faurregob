@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Sobre Mí
-Estudiante de **Ingeniería de Software** (4to semestre) con experiencia en:
+Estudiante de **Ingeniería de Software** (5to semestre) con experiencia en:
 - **Automatización de procesos en Odoo:** (APIs REST, Google Sheets, Apps Script).
 - **Lenguajes de Programacion:** (Python, Java, JavaScript, XML/HTML, Bootstrap, Css).
 - **Gestión de Identidades y Accesos (IAM) y Seguridad Informática.**
