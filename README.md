@@ -1,4 +1,4 @@
-# 💻 Freddy Urrego | Analista de Sistemas & Desarrollador de Software
+# 💻 Freddy Alexander Urrego | Analista de Sistemas & Desarrollador de Software Odoo
 
 [![Email](https://img.shields.io/badge/Gmail-faurregob@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:faurregob@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-3046406044-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573046406044)
@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Hola, soy Freddy Urrego
+# 👋 Hola, soy Freddy Alexander Urrego
 
 💻 Desarrollador Odoo enfocado en automatización de procesos empresariales, integraciones API y desarrollo de soluciones ERP.
 
