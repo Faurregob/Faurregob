@@ -122,11 +122,3 @@ Fundación Universitaria Compensar (En curso)
 - Español: Nativo  
 - Inglés: Básico – En proceso de mejora  
 
----
-
-## 📫 Contacto
-
-📧 faurregob@gmail.com  
-💼 LinkedIn: (pon tu link aquí)
-
-
