@@ -6,68 +6,127 @@
 
 ---
 
-### 🚀 Sobre Mí
-Estudiante de **Ingeniería de Software** (5to semestre) con experiencia en:
-- **Automatización de procesos en Odoo:** (APIs REST, Google Sheets, Apps Script).
-- **Lenguajes de Programacion:** (Python, Java, JavaScript, XML/HTML, Bootstrap, Css).
-- **Gestión de Identidades y Accesos (IAM) y Seguridad Informática.**
-- **Bases de datos relacionales:** (SQL, PostgreSQL).
+# 👋 Hola, soy Freddy Urrego
 
-**Enfoque:** Desarrollo de software escalable + optimización de ERPs.  
-**Habilidades blandas:** Trabajo en equipo, Adaptabilidad, Análisis de datos y Aprendizaje continuo.
+💻 Desarrollador Odoo enfocado en automatización de procesos empresariales, integraciones API y desarrollo de soluciones ERP.
 
 ---
 
-### 🛠️ Stack Tecnológico
-#### Lenguajes y Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Css](https://img.shields.io/badge/Css-blue?logo=Css&logoColor=f5f5f5)
+## 🚀 Sobre mí
 
-#### Bases de Datos & Herramientas
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+Soy desarrollador con experiencia en implementación de soluciones en Odoo, especializado en automatización de procesos, integración de sistemas y optimización de flujos operativos.
+
+He trabajado en entornos empresariales desarrollando módulos personalizados, migraciones de datos y automatizaciones que reducen significativamente el trabajo manual y mejoran la eficiencia operativa.
+
+---
+
+## 🧠 Stack Principal
+
+- **Odoo Development**
+  - Desarrollo de módulos personalizados
+  - ORM (modelos, relaciones, campos calculados)
+  - Server Actions y Scheduled Actions (cron)
+  - Herencia de vistas y personalización UI
+  - Reportes QWeb  
+
+- **Backend**
+  - Python
+  - SQL / PostgreSQL
+  - XML-RPC / APIs REST  
+
+- **Integraciones & Automatización**
+  - Google Apps Script
+  - Google Drive API
+  - Automatización de procesos empresariales  
+
+---
+
+## 💼 Experiencia
+
+### 💻 Desarrollador de Software Nivel 2 – Vise LTDA
+📅 Nov 2024 – Presente  
+
+- Desarrollo de módulos personalizados en Odoo para procesos empresariales  
+- Automatización de procesos mediante Server Actions y cron jobs  
+- Integración de Odoo con APIs externas (Google Sheets, sistemas internos)  
+- Desarrollo de vistas (form, tree, search, pivot) y personalización de UI  
+- Creación de reportes QWeb  
+- Optimización de procesos operativos reduciendo tiempos hasta en un 80%  
+
+---
+
+### 🔐 Analista de Sistemas – Cencosud
+📅 2019 – 2024  
+
+- Gestión de identidades y accesos (IAM)  
+- Análisis de riesgos y segregación de funciones  
+- Soporte a auditorías y resolución de incidencias críticas  
+
+---
+
+## 📂 Proyectos Destacados
+
+### ⚙️ Generador dinámico de módulos Odoo
+Creación automática de módulos en Odoo desde Google Apps Script.
+
+- Generación de modelos, vistas y acciones dinámicamente  
+- Integración mediante APIs (JSON-RPC)  
+- Automatización del desarrollo de módulos  
+
+👉 Próximamente disponible en repositorio
+
+---
+
+### ☁️ Migración de adjuntos Odoo → Google Drive
+Script en Python para migración masiva de archivos.
+
+- Procesamiento por lotes (batching)  
+- Optimización de memoria  
+- Organización automática por modelo, año y mes  
+- Actualización de registros en Odoo  
+
+👉 Próximamente disponible en repositorio
+
+---
+
+### 📂 Gestión Documental (TRD)
+Módulo Odoo para gestión documental empresarial.
+
+- Modelado de entidades complejas  
+- Automatización de procesos documentales  
+- Carga masiva de datos  
+
+👉 Próximamente disponible en repositorio
+
+---
+
+## 🛠️ Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
 
 ---
 
-### 💼 Experiencia Relevante
-#### **Desarrollador de Software Nivel 2** @ [Vise LTDA](https://...) *(Nov 2024 - Presente)*
-- Integré **APIs REST en Odoo** para sincronizar sistemas externos y automatizar carga masiva de datos desde Google Sheets.
-- Desarrollé **vistas personalizadas** (XML/HTML + Bootstrap) para mejorar UX en gestión de inventario.
-- Optimicé modelos de Odoo con **Python**, reduciendo tiempos de procesamiento en un 30%.
+## 🎓 Educación
 
-#### **Analista de Sistemas** @ [Cencosud S.A](https://...) *(Oct 2019 - Jul 2024)*
-- Gestioné **IAM** (Identity & Access Management) y segregación de funciones para +500 usuarios.
-- Implementé soluciones a incidencias de **Mesa de Ayuda** con enfoque en seguridad.
+**Ingeniería de Software**  
+Fundación Universitaria Compensar (En curso)
 
 ---
 
-### 📚 Proyectos Destacados
-| Proyecto | Tecnologías | Descripción |
-|----------|------------|-------------|
-| [Portafolio Personal](https://github.com/Faurregob/Mis-Proyectos) | HTML, CSS, Bootstrap, JavaScript | Ejercicios Basicos, utilizando herramientas de Html, Css, Java Script puro. |
+## 🌎 Idiomas
+
+- Español: Nativo  
+- Inglés: Básico – En proceso de mejora  
 
 ---
 
-### 📖 Educación y Certificaciones
-- **Ingeniería de Software** @ Fundación Universitaria Compensar *(2023 - Actual)*
-- **Oracle Certified:** Java Fundamentals & Database Foundations *(Mayo 2024)*
-- **React** Curso de React de 0 a Experto *(Actualmente)*
-- **Odoo 14 para Programadores*** Creación de módulos desde 0 sin usar Odoo Studio *(Actualmente)*
+## 📫 Contacto
 
----
-
-### 🌎 Idiomas
-- Español (Nativo)
-- Inglés (Básico/Intermedio) *(opcional: añade nivel real)*
-
----
-
-### 📌 Objetivo Profesional
-Soy un desarrollador Junior con conocimientos básicos en Java, HTML, CSS, y Python, y actualmente aprendiendo React de manera autodidacta. Mi objetivo es encontrar una oportunidad en el desarrollo backend/frontend donde pueda aplicar mis habilidades adquiridas, seguir aprendiendo y creciendo profesionalmente. Estoy comprometido a aportar al éxito de los equipos de desarrollo, contribuyendo con soluciones de calidad mientras continúo perfeccionando mis conocimientos en programación y tecnologías web.  
+📧 faurregob@gmail.com  
+💼 LinkedIn: (pon tu link aquí)
 
 
